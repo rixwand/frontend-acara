@@ -1,5 +1,5 @@
 import env from "@/config/environment";
-import axios, { Axios, AxiosHeaders } from "axios";
+import axios from "axios";
 import { Session } from "next-auth";
 import { getSession } from "next-auth/react";
 
